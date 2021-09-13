@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Adam_ProjectTemplate_Swift_Adam_ProjectTemplate_SwiftUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Adam_ProjectTemplate_Swift_Adam_ProjectTemplate_SwiftUITests
+@end
